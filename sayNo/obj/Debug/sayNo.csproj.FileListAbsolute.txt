@@ -1,0 +1,13 @@
+C:\dev.mateo\bn\sayNo\sayNo\bin\Debug\sayNo.exe.config
+C:\dev.mateo\bn\sayNo\sayNo\obj\Debug\sayNo.csprojResolveAssemblyReference.cache
+C:\dev.mateo\bn\sayNo\sayNo\bin\Debug\sayNo.exe
+C:\dev.mateo\bn\sayNo\sayNo\bin\Debug\sayNo.pdb
+C:\dev.mateo\bn\sayNo\sayNo\obj\Debug\sayNo.exe
+C:\dev.mateo\bn\sayNo\sayNo\obj\Debug\sayNo.pdb
+C:\dev.mateo\Git\sayNo\sayNo\bin\Debug\sayNo.exe.config
+C:\dev.mateo\Git\sayNo\sayNo\obj\Debug\sayNo.exe
+C:\dev.mateo\Git\sayNo\sayNo\obj\Debug\sayNo.pdb
+C:\dev.mateo\Git\sayNo\sayNo\bin\Debug\sayNo.exe
+C:\dev.mateo\Git\sayNo\sayNo\bin\Debug\sayNo.pdb
+C:\dev.mateo\Git\sayNo\sayNo\obj\Debug\Interop.WMPLib.dll
+C:\dev.mateo\Git\sayNo\sayNo\obj\Debug\sayNo.csproj.ResolveComReference.cache
